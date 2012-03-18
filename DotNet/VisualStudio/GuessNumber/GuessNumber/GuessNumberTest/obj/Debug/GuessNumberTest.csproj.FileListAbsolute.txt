@@ -1,0 +1,13 @@
+C:\GuessNumber\GuessNumberTest\bin\Debug\GuessNumberTest.dll
+C:\GuessNumber\GuessNumberTest\bin\Debug\GuessNumberTest.pdb
+C:\GuessNumber\GuessNumberTest\bin\Debug\GuessNumber.dll
+C:\GuessNumber\GuessNumberTest\bin\Debug\xunit.dll
+C:\GuessNumber\GuessNumberTest\bin\Debug\xunit.runner.utility.dll
+C:\GuessNumber\GuessNumberTest\bin\Debug\GuessNumber.pdb
+C:\GuessNumber\GuessNumberTest\bin\Debug\xunit.pdb
+C:\GuessNumber\GuessNumberTest\bin\Debug\xunit.xml
+C:\GuessNumber\GuessNumberTest\bin\Debug\xunit.runner.utility.pdb
+C:\GuessNumber\GuessNumberTest\bin\Debug\xunit.runner.utility.xml
+C:\GuessNumber\GuessNumberTest\obj\Debug\ResolveAssemblyReference.cache
+C:\GuessNumber\GuessNumberTest\obj\Debug\GuessNumberTest.dll
+C:\GuessNumber\GuessNumberTest\obj\Debug\GuessNumberTest.pdb

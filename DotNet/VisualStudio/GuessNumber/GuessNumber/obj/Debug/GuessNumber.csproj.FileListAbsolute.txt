@@ -1,0 +1,10 @@
+C:\GuessNumber\GuessNumber\bin\Debug\GuessNumber.dll
+C:\GuessNumber\GuessNumber\bin\Debug\GuessNumber.pdb
+C:\GuessNumber\GuessNumber\obj\Debug\ResolveAssemblyReference.cache
+C:\GuessNumber\GuessNumber\obj\Debug\GuessNumber.dll
+C:\GuessNumber\GuessNumber\obj\Debug\GuessNumber.pdb
+C:\Homework\GuessNumber\GuessNumber\bin\Debug\GuessNumber.dll
+C:\Homework\GuessNumber\GuessNumber\bin\Debug\GuessNumber.pdb
+C:\Homework\GuessNumber\GuessNumber\obj\Debug\ResolveAssemblyReference.cache
+C:\Homework\GuessNumber\GuessNumber\obj\Debug\GuessNumber.dll
+C:\Homework\GuessNumber\GuessNumber\obj\Debug\GuessNumber.pdb

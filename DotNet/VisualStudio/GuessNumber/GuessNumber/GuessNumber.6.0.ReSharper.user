@@ -1,0 +1,110 @@
+<Configuration>
+  <UnitTestSessions>
+    <Session>
+      <Name>Session #1</Name>
+      <Elements>
+        <UnitTestElement Provider="xUnit" Id="xunit:GuessNumberTest.NumberGuessTest" type="XunitTestClassElement" projectId="B0D3BFB7-1CF8-4FA0-9DD8-B8229DB86440" typeName="GuessNumberTest.NumberGuessTest" />
+        <UnitTestElement Provider="xUnit" Id="xunit:GuessNumberTest.NumberGuessTest.should_1A_0B_given_result_numbers_has_one_number_exsit_in_input_numbers_and_in_the_same_place" ParentId="xunit:GuessNumberTest.NumberGuessTest" type="XunitTestMethodElement" projectId="B0D3BFB7-1CF8-4FA0-9DD8-B8229DB86440" typeName="GuessNumberTest.NumberGuessTest" methodName="should_1A_0B_given_result_numbers_has_one_number_exsit_in_input_numbers_and_in_the_same_place" skipReason="" />
+        <UnitTestElement Provider="xUnit" Id="xunit:GuessNumberTest.NumberGuessTest.should_return_0A0B_given_result_numbers_have_no_same_number_with_input" ParentId="xunit:GuessNumberTest.NumberGuessTest" type="XunitTestMethodElement" projectId="B0D3BFB7-1CF8-4FA0-9DD8-B8229DB86440" typeName="GuessNumberTest.NumberGuessTest" methodName="should_return_0A0B_given_result_numbers_have_no_same_number_with_input" skipReason="" />
+        <UnitTestElement Provider="xUnit" Id="xunit:GuessNumberTest.NumberGuessTest.should_return_0A4B_result_numbers_has_same_number_in_input_numbers_but_not_any_in_same_palce" ParentId="xunit:GuessNumberTest.NumberGuessTest" type="XunitTestMethodElement" projectId="B0D3BFB7-1CF8-4FA0-9DD8-B8229DB86440" typeName="GuessNumberTest.NumberGuessTest" methodName="should_return_0A4B_result_numbers_has_same_number_in_input_numbers_but_not_any_in_same_palce" skipReason="" />
+        <UnitTestElement Provider="xUnit" Id="xunit:GuessNumberTest.NumberGuessTest.should_return_1A2B_result_numbers" ParentId="xunit:GuessNumberTest.NumberGuessTest" type="XunitTestMethodElement" projectId="B0D3BFB7-1CF8-4FA0-9DD8-B8229DB86440" typeName="GuessNumberTest.NumberGuessTest" methodName="should_return_1A2B_result_numbers" skipReason="" />
+        <UnitTestElement Provider="xUnit" Id="xunit:GuessNumberTest.NumberGuessTest.should_return_4A0B_given_result_numbers_are_exactly_same_with_input_numbers" ParentId="xunit:GuessNumberTest.NumberGuessTest" type="XunitTestMethodElement" projectId="B0D3BFB7-1CF8-4FA0-9DD8-B8229DB86440" typeName="GuessNumberTest.NumberGuessTest" methodName="should_return_4A0B_given_result_numbers_are_exactly_same_with_input_numbers" skipReason="" />
+      </Elements>
+    </Session>
+  </UnitTestSessions>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="B0D3BFB7-1CF8-4FA0-9DD8-B8229DB86440/f:Class1.cs" caret="152" fromTop="8" />
+      <File id="02DAAA11-A94D-408A-8746-14EC8AEB5B88/f:Class1.cs" caret="0" fromTop="0" />
+      <File id="02DAAA11-A94D-408A-8746-14EC8AEB5B88/f:NumberGuess.cs" caret="519" fromTop="16" />
+      <File id="B0D3BFB7-1CF8-4FA0-9DD8-B8229DB86440/f:NumberGuessTest.cs" caret="494" fromTop="10" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="B0D3BFB7-1CF8-4FA0-9DD8-B8229DB86440/f:NumberGuessTest.cs" caret="2403" fromTop="15" />
+      <File id="B0D3BFB7-1CF8-4FA0-9DD8-B8229DB86440/f:NumberGuessTest.cs" caret="2403" fromTop="30" />
+      <File id="B0D3BFB7-1CF8-4FA0-9DD8-B8229DB86440/f:NumberGuessTest.cs" caret="2403" fromTop="14" />
+      <File id="02DAAA11-A94D-408A-8746-14EC8AEB5B88/f:NumberGuess.cs" caret="1126" fromTop="27" />
+      <File id="02DAAA11-A94D-408A-8746-14EC8AEB5B88/f:NumberGuess.cs" caret="1126" fromTop="31" />
+      <File id="B0D3BFB7-1CF8-4FA0-9DD8-B8229DB86440/f:NumberGuessTest.cs" caret="195" fromTop="9" />
+      <File id="B0D3BFB7-1CF8-4FA0-9DD8-B8229DB86440/f:NumberGuessTest.cs" caret="1368" fromTop="41" />
+      <File id="02DAAA11-A94D-408A-8746-14EC8AEB5B88/f:NumberGuess.cs" caret="1126" fromTop="32" />
+      <File id="02DAAA11-A94D-408A-8746-14EC8AEB5B88/f:NumberGuess.cs" caret="1126" fromTop="30" />
+      <File id="02DAAA11-A94D-408A-8746-14EC8AEB5B88/f:NumberGuess.cs" caret="1126" fromTop="26" />
+      <File id="02DAAA11-A94D-408A-8746-14EC8AEB5B88/f:NumberGuess.cs" caret="1126" fromTop="22" />
+      <File id="02DAAA11-A94D-408A-8746-14EC8AEB5B88/f:NumberGuess.cs" caret="752" fromTop="23" />
+      <File id="B0D3BFB7-1CF8-4FA0-9DD8-B8229DB86440/f:NumberGuessTest.cs" caret="1715" fromTop="23" />
+      <File id="B0D3BFB7-1CF8-4FA0-9DD8-B8229DB86440/f:NumberGuessTest.cs" caret="2391" fromTop="36" />
+      <File id="B0D3BFB7-1CF8-4FA0-9DD8-B8229DB86440/f:NumberGuessTest.cs" caret="2053" fromTop="25" />
+      <File id="B0D3BFB7-1CF8-4FA0-9DD8-B8229DB86440/f:NumberGuessTest.cs" caret="2244" fromTop="31" />
+      <File id="02DAAA11-A94D-408A-8746-14EC8AEB5B88/f:NumberGuess.cs" caret="202" fromTop="8" />
+      <File id="02DAAA11-A94D-408A-8746-14EC8AEB5B88/f:NumberGuess.cs" caret="628" fromTop="19" />
+      <File id="02DAAA11-A94D-408A-8746-14EC8AEB5B88/f:NumberGuess.cs" caret="995" fromTop="33" />
+    </RecentEdits>
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="GuessNumberTest" priority="31" />
+      <Item value="public" priority="159" />
+      <Item value="void" priority="191" />
+      <Item value="string" priority="381" />
+      <Item value="Assert`0" priority="95" />
+      <Item value="NumberGuessTest`0" priority="31" />
+      <Item value="input" priority="414" />
+      <Item value="result" priority="445" />
+      <Item value="expectSuggest" priority="63" />
+      <Item value="actualSuggest" priority="63" />
+      <Item value="return" priority="383" />
+      <Item value="var" priority="191" />
+      <Item value="new" priority="159" />
+      <Item value="List" priority="150" />
+      <Item value="NumberGuess`0" priority="31" />
+      <Item value="else" priority="31" />
+      <Item value="if" priority="127" />
+      <Item value="false" priority="95" />
+      <Item value="for" priority="159" />
+      <Item value="true" priority="95" />
+      <Item value="Fact" priority="31" />
+      <Item value="countOfA" priority="58" />
+      <Item value="private" priority="31" />
+      <Item value="static" priority="31" />
+      <Item value="int" priority="95" />
+      <Item value="getACount`0" priority="31" />
+      <Item value="SameCount" priority="63" />
+      <Item value="sameCount" priority="31" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Xunit.Assert">
+      <Item value="Equal`1" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="ToCharArray`0" priority="26" />
+      <Item value="Equals`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Exists`0" priority="26" />
+      <Item value="Contains`0" priority="49" />
+      <Item value="Find`0" priority="26" />
+      <Item value="Count" priority="161" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@GuessNumber.NumberGuess">
+      <Item value="suggest`0" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>

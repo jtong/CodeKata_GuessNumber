@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuessNumber", "GuessNumber\GuessNumber.csproj", "{02DAAA11-A94D-408A-8746-14EC8AEB5B88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuessNumberTest", "GuessNumberTest\GuessNumberTest.csproj", "{B0D3BFB7-1CF8-4FA0-9DD8-B8229DB86440}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02DAAA11-A94D-408A-8746-14EC8AEB5B88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02DAAA11-A94D-408A-8746-14EC8AEB5B88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02DAAA11-A94D-408A-8746-14EC8AEB5B88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02DAAA11-A94D-408A-8746-14EC8AEB5B88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0D3BFB7-1CF8-4FA0-9DD8-B8229DB86440}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0D3BFB7-1CF8-4FA0-9DD8-B8229DB86440}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0D3BFB7-1CF8-4FA0-9DD8-B8229DB86440}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0D3BFB7-1CF8-4FA0-9DD8-B8229DB86440}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

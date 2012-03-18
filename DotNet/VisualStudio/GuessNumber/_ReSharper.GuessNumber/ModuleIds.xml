@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="02DAAA11-A94D-408A-8746-14EC8AEB5B88" ModuleId="GuessNumber" />
+  <Module PersistentId="B0D3BFB7-1CF8-4FA0-9DD8-B8229DB86440" ModuleId="GuessNumberTest" />
+</Modules>
